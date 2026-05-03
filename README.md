@@ -46,7 +46,6 @@ The core analytical point is the divergence between:
 - `copyfail.cpp` — C++ research source artifact
 - `copyfail.py` — Python research source artifact
 - `copyfail` — compiled C++ binary artifact
-- `copyfail_python_rerender.png` — Python-rendered monochrome diagram
 
 ## Binary build
 
