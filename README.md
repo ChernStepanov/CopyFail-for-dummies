@@ -1,4 +1,4 @@
-# Copy Fail / CVE-2026-31431 — Analytical Diagram and Research Notes
+# Copy Fail / CVE-2026-31431 — Research Notes
 
 ## Overview
 
