@@ -37,7 +37,7 @@ The core analytical point is the divergence between:
 
 ---
 
-![Copy Fail diagram](<./Диаграмма без названия.drawio.png>)
+![Copy Fail diagram](<./Diagram.png>)
 
 ---
 
